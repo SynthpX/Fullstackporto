@@ -4,7 +4,7 @@ Backend in Sanity, Frontend in ReactJS
 
 #To-DO List
 
-- [ ] Initialization
+- [x] Initialization
 - [ ] Navbar
 - [ ] Header
 - [ ] About Sections
